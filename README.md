@@ -1,6 +1,6 @@
 # Implementation of the paper "GrabCut - Interactive Foreground Extraction using Iterated Graph Cuts" in Matlab
 
-I implemented this paper as part of my BSc thesis. Good old computer vision stuff: Markov Random Fields (MRF), GraphCuts, and Gaussiam Mixture Models (GMM).
+I implemented this paper as part of my BSc thesis. Good old computer vision stuff: Markov Random Fields (MRF), GraphCuts, and Gaussian Mixture Models (GMM).
 
 ## Requirements
 
